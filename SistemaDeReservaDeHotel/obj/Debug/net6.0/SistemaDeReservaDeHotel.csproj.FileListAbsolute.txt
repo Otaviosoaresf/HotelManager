@@ -1,0 +1,15 @@
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\bin\Debug\net6.0\SistemaDeReservaDeHotel.exe
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\bin\Debug\net6.0\SistemaDeReservaDeHotel.deps.json
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\bin\Debug\net6.0\SistemaDeReservaDeHotel.runtimeconfig.json
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\bin\Debug\net6.0\SistemaDeReservaDeHotel.dll
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\bin\Debug\net6.0\SistemaDeReservaDeHotel.pdb
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\obj\Debug\net6.0\SistemaDeReservaDeHotel.csproj.AssemblyReference.cache
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\obj\Debug\net6.0\SistemaDeReservaDeHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\obj\Debug\net6.0\SistemaDeReservaDeHotel.AssemblyInfoInputs.cache
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\obj\Debug\net6.0\SistemaDeReservaDeHotel.AssemblyInfo.cs
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\obj\Debug\net6.0\SistemaDeReservaDeHotel.csproj.CoreCompileInputs.cache
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\obj\Debug\net6.0\SistemaDeReservaDeHotel.dll
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\obj\Debug\net6.0\refint\SistemaDeReservaDeHotel.dll
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\obj\Debug\net6.0\SistemaDeReservaDeHotel.pdb
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\obj\Debug\net6.0\SistemaDeReservaDeHotel.genruntimeconfig.cache
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\SistemaDeReservaDeHotel\obj\Debug\net6.0\ref\SistemaDeReservaDeHotel.dll
